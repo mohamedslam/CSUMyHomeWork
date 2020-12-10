@@ -1,0 +1,14 @@
+C:\Ai Master\HomeWork\C#Course\FamilyStructure_1\FamilyStructure_1\bin\Debug\FamilyStructure_1.exe.config
+C:\Ai Master\HomeWork\C#Course\FamilyStructure_1\FamilyStructure_1\bin\Debug\FamilyStructure_1.exe
+C:\Ai Master\HomeWork\C#Course\FamilyStructure_1\FamilyStructure_1\bin\Debug\FamilyStructure_1.pdb
+C:\Ai Master\HomeWork\C#Course\FamilyStructure_1\FamilyStructure_1\obj\Debug\FamilyStructure_1.csprojAssemblyReference.cache
+C:\Ai Master\HomeWork\C#Course\FamilyStructure_1\FamilyStructure_1\obj\Debug\FamilyStructure_1.csproj.CoreCompileInputs.cache
+C:\Ai Master\HomeWork\C#Course\FamilyStructure_1\FamilyStructure_1\obj\Debug\FamilyStructure_1.exe
+C:\Ai Master\HomeWork\C#Course\FamilyStructure_1\FamilyStructure_1\obj\Debug\FamilyStructure_1.pdb
+C:\Users\msallam\Desktop\Private\FamilyStructure_1\FamilyStructure_1\FamilyStructure_1\bin\Debug\FamilyStructure_1.exe.config
+C:\Users\msallam\Desktop\Private\FamilyStructure_1\FamilyStructure_1\FamilyStructure_1\bin\Debug\FamilyStructure_1.exe
+C:\Users\msallam\Desktop\Private\FamilyStructure_1\FamilyStructure_1\FamilyStructure_1\bin\Debug\FamilyStructure_1.pdb
+C:\Users\msallam\Desktop\Private\FamilyStructure_1\FamilyStructure_1\FamilyStructure_1\obj\Debug\FamilyStructure_1.csprojAssemblyReference.cache
+C:\Users\msallam\Desktop\Private\FamilyStructure_1\FamilyStructure_1\FamilyStructure_1\obj\Debug\FamilyStructure_1.csproj.CoreCompileInputs.cache
+C:\Users\msallam\Desktop\Private\FamilyStructure_1\FamilyStructure_1\FamilyStructure_1\obj\Debug\FamilyStructure_1.exe
+C:\Users\msallam\Desktop\Private\FamilyStructure_1\FamilyStructure_1\FamilyStructure_1\obj\Debug\FamilyStructure_1.pdb
